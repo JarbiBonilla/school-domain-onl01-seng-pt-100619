@@ -19,3 +19,5 @@ end
     @roster[grade]
   end
 end
+
+  def 
